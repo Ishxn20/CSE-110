@@ -26,8 +26,7 @@ Hi, my name is Ishan! I'm a software engineering student passionate about AI and
 2. Data analysis toolkit in Python
 3. Predictive models for market trends
 
-## Campus Mobile documentation
-see documentation [here](campus-mobile/README.md)
+see documentation [here](campus-mobile/README.md](https://github.com/UCSD/campus-mobile/blob/experimental/Readme.md)
 
 ## Code Snippet
 
