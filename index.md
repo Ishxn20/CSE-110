@@ -17,6 +17,8 @@ Hi, my name is Ishan! I'm a software engineering student passionate about AI and
 - C++
 - Java
 - Flutter
+  
+Want to know my favorite programming language? click [here](README.md) to find out!
 
 ## My Projects
 
@@ -25,8 +27,6 @@ Hi, my name is Ishan! I'm a software engineering student passionate about AI and
 1. AI chatbot for healthcare
 2. Data analysis toolkit in Python
 3. Predictive models for market trends
-
-see documentation [here](campus-mobile/README.md)
 
 ## Code Snippet
 
