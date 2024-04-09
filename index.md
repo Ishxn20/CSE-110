@@ -4,14 +4,14 @@
 
 Hi, my name is Ishan! I'm a software engineering student passionate about AI and data analysis. In my spare time, I enjoy exploring new technologies and working on personal projects.
 
-## About Me
+### About Me
 
 - **Interests:** AI, Machine Learning, Data Science
 - **Hobbies:** Coding, Reading, Hiking
 - **Favorite Quote:**
   > "Yesterday is history, tomorrow is a mystery, but today is a gift." - Oogway
 
-## Programming Skills
+### Programming Skills
 
 - Python
 - C++
@@ -20,7 +20,7 @@ Hi, my name is Ishan! I'm a software engineering student passionate about AI and
 
 ## My Projects
 
-Here are some of the projects I've worked on:
+***Here are some of the projects I've worked on:***
 
 1. AI chatbot for healthcare
 2. Data analysis toolkit in Python
@@ -55,3 +55,5 @@ Iterator end() {
 
 ## Image
 ![img](6unvjk.jpg)
+
+[Back to top](#Introduction)
