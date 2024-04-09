@@ -43,9 +43,9 @@ Iterator end() {
 
 ## Links
 
-**Linkedin:**[LinkedIn](https://www.linkedin.com/in/ishanvaish/)
+**Linkedin:** [](https://www.linkedin.com/in/ishanvaish/)
 
-**In the News:**[News](https://gulfnews.com/friday/art-people/this-dubai-student-is-building-an-app-to-teach-kids-new-skills-1.2311313)
+**In the News:** [](https://gulfnews.com/friday/art-people/this-dubai-student-is-building-an-app-to-teach-kids-new-skills-1.2311313)
 
 ## Tasks I still need to finish
 
