@@ -18,7 +18,7 @@ Hi, my name is Ishan! I'm a software engineering student passionate about AI and
 - Java
 - Flutter
   
-Want to know my favorite programming language? click [here](New-Branch/README.md)) to find out!
+Want to know my favorite programming language? click [here](New-Branch/README.md) to find out!
 
 ## My Projects
 
